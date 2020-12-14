@@ -5,6 +5,11 @@ permalink: /modules/
 author_profile: true
 ---
 
+<h2>Testing</h2>
+{% for post in site.modules reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
