@@ -1,8 +1,11 @@
 ---
-title: "Module 1"
-collection: modules
+title: "Module1"
+collection: talks
+type: "Talk"
 permalink: /module1
-excerpt: 'This module is about the number 1. The number 2 is left for future work.'
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
 # Module 1  

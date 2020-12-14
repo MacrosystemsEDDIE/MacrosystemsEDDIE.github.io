@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Modules"
 permalink: /modules/
 author_profile: true
