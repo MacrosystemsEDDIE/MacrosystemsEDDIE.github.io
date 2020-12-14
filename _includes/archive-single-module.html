@@ -38,6 +38,6 @@
     {% if post.author %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.author}}</p>{% endif %}
     {% if post.image %}<img src={{post.image}} align="right"/>{% endif %}
     {% if post.description %}<p class="archive__item-excerpt" itemprop="description">{{post.description}}{% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }} {{ post.image}}</p>{% endif %}
   </article>
 </div>
