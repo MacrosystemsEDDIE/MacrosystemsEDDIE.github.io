@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Us"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Macrosystems EDDIE modules will help students across the U.S. to learn the foundations of macrosystems ecology through modeling and forecasting. Through our modules, both students and their instructors will learn how to quickly and efficiently run ecological models and generate forecasts for multiple NEON and GLEON sites. Thus, students will simultaneously learn the core concepts of macrosystems science and develop the quantitative skill sets needed to conduct the next generation of environmental research. Macrosystems EDDIE modules, which are centered on the frontier of macrosystems ecology, will enable undergraduate students to contribute to high-level ecological research. Engaging undergraduate students in hands-on modeling and forecasting activities with real-world applications translates into a workforce with increased data science, systems thinking, and quantitative skills.
 
 A data-driven personal website
 ======
