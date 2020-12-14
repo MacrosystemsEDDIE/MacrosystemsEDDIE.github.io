@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Modules"
+    url: /modules/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Assessment"
+    url: /assessment/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "People"
+    url: /people/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Publications, Presentations & Workshops"
+    url: /Publications/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Faculty Resources"
+    url: /faculty-resources/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Faculty Feedback"
+    url: /faculty-feedback/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Feedback"
+    url: /feedback/
