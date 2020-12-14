@@ -4,5 +4,11 @@ permalink: /modules/
 author_profile: true
 ---
 
-#[Module 1](/module1)  
-This is a test for Module 1.
+# HTML below
+
+{% for post in site.modules reversed %}
+    {% include archive-single-talk.html %}
+{% endfor %}
+
+
+# HTML above
