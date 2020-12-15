@@ -2,22 +2,25 @@
 title: "Module 1: Climate Change Effects on Lake Temperatures"
 collection: modules
 type: "Module"
-permalink: /modules/module1
+permalink: /module1
 image: /images/module1.jpg
 description: "Climate change is modifying the thermal structure of lakes around the globe. In this module, students will learn how to use a lake model to explore the effects of altered weather on lakes, and then develop their own climate scenarios to test hypotheses about how lakes may change in the future."
 author: "This module was developed by C.C. Carey, S. Aditya, K. Subratie, R. Figueiredo, and K.J. Farrell. Parts of this module were originally developed for the Lake Modeling Moduleas part of the Project EDDIE suite of modules."
 ---
 
----
+***
 ## Summary  
 Climate change is modifying the thermal structure of lakes around the globe. Because it is difficult to predict how lakes will respond to the many different aspects of climate change (e.g., altered temperature, precipitation, wind, etc.), many researchers are using models to manipulate climate scenarios and simulate lake responses. Lake simulation models provide a powerful tool for exploring the sensitivity of lake thermal structure characteristics to weather.
 
 In this module, students will learn how to set up a lake model and "force" the model with climate scenarios of their own design to test hypotheses about how lakes may change in the future. Once students have mastered running one climate scenario for their lake, they will learn how to use distributed computing tools to scale up and run hundreds of different climate scenarios for their lakes.
 
-The overarching goal of this module is for students to explore new modeling and computing tools while learning fundamental concepts about how climate change will affect lakes. The A-B-C structure of this module makes it flexible and adaptable to a range of student levels and course structures.
----
+The overarching goal of this module is for students to explore new modeling and computing tools while learning fundamental concepts about how climate change will affect lakes. The A-B-C structure of this module makes it flexible and adaptable to a range of student levels and course structures.  
+
+
+***
 
 ## Learning Goals  
+<a href="url"><img src="../images/module1.jpg" align="right" height="220" width="220" ></a>
 By the end of this module, students will be able to:
 * Set up and run the General Lake Model (GLM) in the R statistical environment to simulate lake thermal structure.
 * Understand how GLM configuration files, driver data, and output files are organized and used.
@@ -25,7 +28,6 @@ By the end of this module, students will be able to:
 * Interpret model output from GLM simulations to understand how changing climate will alter lake thermal characteristics.
 * Use the GRAPLEr R package to set up hundreds of model simulations that vary input meteorological data, and run those simulations using distributed computing.
 * Explore the application of distributed computing for modeling climate change effects on lakes.  
-<a href="url"><img src="../images/module1.jpg" align="right" height="220" width="220" ></a>
 
 
 ## Context for Use  
