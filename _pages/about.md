@@ -8,43 +8,49 @@ redirect_from:
   - /about.html
 ---
 
+<a href="url"><img src="../images/about.jpg" align="right" height="220" width="220" ></a>
 Macrosystems EDDIE modules will help students across the U.S. to learn the foundations of macrosystems ecology through modeling and forecasting. Through our modules, both students and their instructors will learn how to quickly and efficiently run ecological models and generate forecasts for multiple NEON and GLEON sites. Thus, students will simultaneously learn the core concepts of macrosystems science and develop the quantitative skill sets needed to conduct the next generation of environmental research. Macrosystems EDDIE modules, which are centered on the frontier of macrosystems ecology, will enable undergraduate students to contribute to high-level ecological research. Engaging undergraduate students in hands-on modeling and forecasting activities with real-world applications translates into a workforce with increased data science, systems thinking, and quantitative skills.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Project Description  
+Ecologists are increasingly using models, based on large datasets of observations obtained through environmental sensor networks, to study ecosystems and forecast future change. Developing forecasts requires skills in data analysis, ecological modeling, quantitative reasoning, and computing. However, modeling and computational skills are rarely taught in undergraduate classrooms, representing a major gap in training students to tackle complex environmental challenges.  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+### Macrosystems Ecology  
+<a href="url"><img src="../images/macro-schematic.png" align="right" height="220" width="220" ></a>
+**Macrosystems ecology** is the study of ecological dynamics at multiple interacting spatial and temporal scales (e.g., Heffernan et al. 2014). For example, global climate change can interact with local land-use activities to control how an ecosystem changes over the next decades. Macrosystems ecology recently emerged as a new sub-discipline of ecology to study ecosystems and ecological communities around the globe that are changing at an unprecedented rate because of human activities (IPCC 2013). The responses of ecosystems and communities are complex, non-linear, and driven by feedbacks across local, regional, and global scales (Heffernan et al. 2014). These characteristics necessitate novel approaches for making predictions about how systems may change to improve both our understanding of ecological phenomena as well as inform resource management.  
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Forecasting** is a tool that can be used for understanding and predicting macrosystems dynamics. To anticipate and prepare for increased variability in populations, communities, and ecosystems, there is a pressing need to know the future state of ecological systems across space and time (Dietze et al. 2018). Ecological forecasting is an emerging approach which provides an estimate of the future state of an ecological system with uncertainty, allowing society to prepare for changes in important ecosystem services. Ecological forecasts are a powerful test of the scientific method because ecologists make a hypothesis of how an ecological system works; embed their hypothesis in a model; use the model to make a forecast of future conditions; and then when observations become available, assess the accuracy of their forecast, which indicates if their hypothesis is supported or needs to be updated. Forecasts that are effectively communicated to the public and managers will be most useful for aiding decision-making. Consequently, macrosystems ecologists are increasingly using ecological forecasts to predict how ecosystems are changing over space and time.  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Our interdisciplinary team is developing flexible classroom modules that introduce undergraduate students to the core concepts of macrosystems ecology and ecological forecasting. Each module utilizes long-term, high-frequency, and sensor-based datasets from diverse sources, including the Global Lakes Ecological Observatory Network, the United States Geological Survey, the Long Term Ecological Research Network, and the National Ecological Observatory Network.  
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Each module can be adapted for use in introductory, intermediate, and advanced courses in ecology and related fields, in order to enhance students' understanding of macrosystems ecology and ecological forecasting, their computational skills, and their ability to conduct inquiry-based studies.  
 
-**Markdown generator**
+## Project Goals  
+Our objective is to develop stand-alone, modular classroom activities for undergraduate students that use publicly-available, long-term, and high-frequency datasets to explore the core concepts of macrosystems ecology and ecological forecasting while developing quantitative literacy.  
+The Macrosystems EDDIE modules are specifically designed to help students achieve the following pedagogical goals:  
+1. Improve students' ability to understand and predict how local, regional, and continental processes interact to mediate responses to human activities
+2. Gain computational skills through engagement in ecological forecasting, simulation modeling, computer programming, distributed computing, and the analysis of large datasets
+3. Develop hypotheses, conduct inquiry-based studies to test them, and evaluate if their hypotheses are supported or rejected by data  
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Where Do Our Data Sets Come From?
+Macrosystems EDDIE modules utilize long-term, high-frequency, and sensor-based datasets from diverse, publicly-accessible sources. Click the links below to learn more about our data providers.
+* Global Lakes Ecological Observatory Network: ([GLEON](http://gleon.org/))
+* National Ecological Observatory Network: ([NEON](http://www.neonscience.org/))
+* Long Term Ecological Research Network: ([LTER](https://lternet.edu/))
+* United States Geological Survey (USGS): [Water Data for the Nation](https://waterdata.usgs.gov/nwis)
+* United States Environmental Protection Agency (EPA): [National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) and [SPARROW](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=ORA&count=10000&dirEntryId=73361&searchall=&showcriteria=2&simplesearch=0&timstype=)
+* National Oceanic and Atmospheric Administration (NOAA): [National Centers for Environmental Information](https://www.ncdc.noaa.gov/)  
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Assessment
+During 2017-2022, we will be using pre- and post-module student questionnaires and soliciting instructor feedback to assess whether our Macrosystems EDDIE modules are achieving their pedagogical goals. These assessments will allow us to determine whether the modules are helping increase students' understanding of macrosystems ecology and ecological forecasting skills, and will allow us to revise modules as needed to maximize their utility to instructors and students. Previous assessments of EDDIE modules found that students who completed EDDIE modules had significantly improved data manipulation skills, an increased understanding of how to use large datasets, and a greater appreciation for the value of high-resolution and long-term data. Thus, in addition to developing critical quantitative and modeling skills, working with high-frequency sensor datasets cements the real-world application of basic ecological concepts.  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Project Support
+Macrosystems EDDIE is supported by funding from NSF EF-1702506, DEB-1926050, DEB-1926050 and DBI-1933016  
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## We welcome your feedback!
+If you have any comments, questions, or suggestions to provide to the Macrosystems EDDIE team, please fill out our brief Feedback Form! We also invite your feedback at [MacrosystemsEDDIE@gmail.com]()  
+
+## References and Resources
+* Dietze, M. C., Fox, A., Beck-Johnson, L. M., Betancourt, J. L., Hooten, M. B., Jarnevich, C. S., Keitt, T. H., Kenney, M. A., Laney, C. M., Larsen, L. G., Loescher, H. W., Lunch, C. K., Pijanowski, B. C., Randerson, J. T., Read, E. K., Tredennick, A. T., Vargas, R., Weathers, K. C., & White, E. P. (2018). Iterative near-term ecological forecasting: Needs, opportunities, and challenges. Proceedings of the National Academy of Sciences, 115(7), 1424–1432. https://doi.org/10.1073/pnas.1710231115
+* Heffernan, J.B., et al. 2014. "Macrosystems ecology: understanding ecological patterns and processes at continental scales." Frontiers in Ecology and the Environment 12.1: 5-14. Available: http://onlinelibrary.wiley.com/doi/10.1890/130017/abstract
+* IPCC. 2013. Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Page (T. F. Stocker, D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex, and P. M. Midgley, Eds.). Cambridge University Press, New York, NY. Available: http://www.ipcc.ch/report/ar5/wg1/
+* Weathers, K. C., P. M. Groffman, E. Van Dolah, E. Bernhardt, N. B. Grimm, K. McMahon, J. Schimel, M. Paolisso, R. Maranger, S. Baer, K. Brauman, and E. Hinckley. 2016. Frontiers in Ecosystem Ecology from a Community Perspective: The Future is Boundless and Bright. Ecosystems 19:753–770. Available: https://link.springer.com/article/10.1007%2Fs10021-016-9967-0
