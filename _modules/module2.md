@@ -1,6 +1,6 @@
 ---
 title: "Module 2: Cross-Scale Interactions"
-image: /images/module2.jpg
+image: /images/module2.png
 description: "Phytoplankton blooms emerge through cross-scale interactions between climate and land use drivers across local to continental scales. In this module, students will explore how changes in climate and land use alter lakes, with the goal of predicting how these local and regional drivers will interact to promote or suppress phytoplankton."
 author: "This module was developed by Carey, C.C., and K.J. Farrell. 13 August 2017. Macrosystems EDDIE: Cross-Scale Interactions. Macrosystems EDDIE Module 2, Version 2. http://module2.macrosystemseddie.org. Module development was supported by NSF EF 1702506."
 collection: modules
