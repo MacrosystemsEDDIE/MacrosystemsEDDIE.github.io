@@ -1,5 +1,8 @@
 ---
-title: "Module2"
+title: "Module 1: Climate Change Effects on Lake Temperatures"
+image: /images/module1.jpg
+description: "This is module 2."
+author: "Testing testing"
 collection: talks
 type: "Talk"
 permalink: /module2
