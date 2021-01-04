@@ -1,11 +1,11 @@
 ---
-title: "Module 4: Macro-Scale Feedbacks"
-image: /images/module4.jpg
-description: "Environmental phenomena, including carbon cycling and greenhouse gas fluxes, are often driven by multiple factors that interact across space and over time. In this module, students "force" a lake model with climate scenarios to test hypotheses about how local and global drivers interact to promote or suppress greenhouse gas."
-author: "This module was developed by Carey, C.C., K.J. Farrell, and A.G. Hounshell. 1 April 2019. Macrosystems EDDIE: Macro-Scale Feedbacks. Macrosystems EDDIE Module 4, Version 1. http://module4.macrosystemseddie.org. Module development was supported by NSF EF 1702506."
+title: "Module 5: Introduction to Ecological Forecasting"
+image: /images/module5.png
+description: "Ecological forecasting is an emerging approach which provides an estimate of the future state of an ecological system with uncertainty, allowing society to prepare for changes in important ecosystem services. In this module, students will apply the iterative forecasting cycle to develop an ecological forecast for a National Ecological Observation Network (NEON) site."
+author: "This module was developed by Moore, T.N., C.C. Carey, and R.Q. Thomas. 23 January 2021. Macrosystems EDDIE: Introduction to Ecological Forecasting. Macrosystems EDDIE Module 5, Version 1. http://module5.macrosystemseddie.org. Module development was supported by NSF grants DEB-1926050 and DBI-1933016."
 collection: modules
 type: "Module"
-permalink: /module4
+permalink: /module5
 ---
 
-[https://serc.carleton.edu/eddie/teaching_materials/modules/module4.html](https://serc.carleton.edu/eddie/teaching_materials/modules/module4.html)
+[https://serc.carleton.edu/eddie/teaching_materials/modules/module5.html](https://serc.carleton.edu/eddie/teaching_materials/modules/module5.html)
