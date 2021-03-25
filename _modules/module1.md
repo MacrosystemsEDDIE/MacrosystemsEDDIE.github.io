@@ -65,7 +65,7 @@ In this module, students will learn how to set up a lake model and "force" the m
 9. The students go through a demonstration of the GRAPLEr R package and then design and carry out their own simulation 'experiment' with their partners. If time permits, the students create additional figures from their experiment results and share them with the class, with the instructor moderating the discussion (Activity C).  
 
 ### Teaching Materials:
-* [Files for running the Module 1](../files/paper1.pdf) (Zip Archive 1.2MB Oct10 19)- Zipped folder of all files needed to run the module in RStudio
+* [Files for running the Module 1](../files/paper1.pdf) <a href="../files/paper1.pdf" download>Click to Download</a> (Zip Archive 1.2MB Oct10 19)- Zipped folder of all files needed to run the module in RStudio
 * R You Ready for EDDIE? Module 1 (Microsoft Word 2007 (.docx) 28kB Nov19 18)- Step-by-step * guide to download R, RStudio, and module files
 * Student Handout (Microsoft Word 2007 (.docx) 568kB Nov19 18)- Handout for students to work through while completing the module
 * Instructor Manual (Microsoft Word 2007 (.docx) 767kB Dec17 18)- Instructor manual and troubleshooting for the module.
