@@ -65,13 +65,13 @@ In this module, students will learn how to set up a lake model and "force" the m
 9. The students go through a demonstration of the GRAPLEr R package and then design and carry out their own simulation 'experiment' with their partners. If time permits, the students create additional figures from their experiment results and share them with the class, with the instructor moderating the discussion (Activity C).  
 
 ### Teaching Materials:
-* [Files for running the Module 1](../files/paper1.pdf) <a href="../files/paper1.pdf" download>Click to Download</a> (Zip Archive 1.2MB Oct10 19)- Zipped folder of all files needed to run the module in RStudio
-* R You Ready for EDDIE? Module 1 (Microsoft Word 2007 (.docx) 28kB Nov19 18)- Step-by-step * guide to download R, RStudio, and module files
-* Student Handout (Microsoft Word 2007 (.docx) 568kB Nov19 18)- Handout for students to work through while completing the module
-* Instructor Manual (Microsoft Word 2007 (.docx) 767kB Dec17 18)- Instructor manual and troubleshooting for the module.
-* Ready, Set, EDDIE: Module 1 (Microsoft Word 2007 (.docx) 363kB Nov19 18)- Instructor introduction to R and the General Lake Model (GLM)
-* Instructor's Powerpoint (PowerPoint 2007 (.pptx) 7MB Dec17 18)- PowerPoint presentation to introduce core concepts & module activities
-* Getting Started: Module 1 (PowerPoint 2007 (.pptx) 2.5MB Nov19 18)- Additional PowerPoint slides that provide a basic orientation to RStudio, and provide troubleshooting tips for common challenges in the module.  
+* <a href="../files/module1/lake_climate_change.zip" download>Files for running the Module 1</a> (Zip Archive 1.2MB Oct10 19)- Zipped folder of all files needed to run the module in RStudio
+* <a href="../files/module1/r_you_ready_mod1.docx" download>R You Ready for EDDIE? Module 1</a>  (Microsoft Word 2007 (.docx) 28kB Nov19 18)- Step-by-step * guide to download R, RStudio, and module files
+* <a href="../files/module1/student_handout_mod1.docx" download>Student Handout</a>  (Microsoft Word 2007 (.docx) 568kB Nov19 18)- Handout for students to work through while completing the module
+* <a href="../files/module1/instructor_manual_mod1.docx" download>Instructor Manual</a>  (Microsoft Word 2007 (.docx) 767kB Dec17 18)- Instructor manual and troubleshooting for the module.
+* <a href="../files/module1/ready_set_eddie_mod1.docx" download>Ready, Set, EDDIE: Module 1</a>  (Microsoft Word 2007 (.docx) 363kB Nov19 18)- Instructor introduction to R and the General Lake Model (GLM)
+* <a href="../files/module1/instructor_powerpoint_mod1.pptx" download>Instructor's Powerpoint</a>  (PowerPoint 2007 (.pptx) 7MB Dec17 18)- PowerPoint presentation to introduce core concepts & module activities
+* <a href="../files/module1/getting_started_mod1.pptx" download>Getting Started: Module 1</a>  (PowerPoint 2007 (.pptx) 2.5MB Nov19 18)- Additional PowerPoint slides that provide a basic orientation to RStudio, and provide troubleshooting tips for common challenges in the module.  
 
 ## Teaching Notes and Tips
 ### Important Note to Instructors:
