@@ -18,7 +18,7 @@ The overarching goal of this module is for students to explore new modeling and 
 
 
 ## Learning Goals  
-<a href="url"><img src="../images/module2.jpg" align="right" height="220" width="220" ></a>
+<a href=""><img src="../images/module2.png" align="right" height="220" width="220" ></a>
 By the end of this module, students will be able to:
 * Understand the concepts of macrosystems ecology and cross-scale interactions, and how different ecological processes can interact at local, regional, and continental scales.
 * Simulate phytoplankton blooms in multiple lakes using ecosystem models of lake water quality set up with publicly-available high-frequency sensor datasets (Activity A).

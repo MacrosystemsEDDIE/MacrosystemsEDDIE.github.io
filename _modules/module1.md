@@ -20,7 +20,7 @@ The overarching goal of this module is for students to explore new modeling and 
 ***
 
 ## Learning Goals  
-<a href="url"><img src="../images/module1.jpg" align="right" height="220" width="220" ></a>
+<a href=""><img src="../images/module1.jpg" align="right" height="220" width="220" ></a>
 By the end of this module, students will be able to:
 * Set up and run the General Lake Model (GLM) in the R statistical environment to simulate lake thermal structure.
 * Understand how GLM configuration files, driver data, and output files are organized and used.
